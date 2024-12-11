@@ -20,7 +20,7 @@ I am a passionate Full Stack Developer and IT student with a strong foundation i
 💼 Work Experience
 
 Full Stack Development Intern
-Reknot Solutions, Virtual** (Jan 2023 - Jun 2023)
+Reknot Solutions, Virtual (Jan 2023 - Jun 2023)
 
 - Developed responsive web applications using HTML, CSS, and JavaScript
 - Built secure backend systems with Laravel and APIs for dynamic features
